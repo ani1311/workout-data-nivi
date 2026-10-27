@@ -100,8 +100,8 @@
           "exercise_name": "Barbell Glute Bridge",
           "sets": [
             {
-              "reps": null,
-              "weight": null,
+              "reps": 15,
+              "weight": 15.0,
               "weight_unit": "kg",
               "distance_km": null,
               "duration_min": null
