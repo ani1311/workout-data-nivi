@@ -42,7 +42,7 @@
           "exercise_name": "RDLs",
           "sets": [
             {
-              "reps": null,
+              "reps": 15,
               "weight": null,
               "weight_unit": "kg",
               "distance_km": null,
