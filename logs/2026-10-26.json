@@ -102,7 +102,21 @@
             {
               "reps": 15,
               "weight": 15.0,
-              "weight_unit": "kg",
+              "weight_unit": "lb",
+              "distance_km": null,
+              "duration_min": null
+            },
+            {
+              "reps": 15,
+              "weight": 15.0,
+              "weight_unit": "lb",
+              "distance_km": null,
+              "duration_min": null
+            },
+            {
+              "reps": 15,
+              "weight": 15.0,
+              "weight_unit": "lb",
               "distance_km": null,
               "duration_min": null
             }
