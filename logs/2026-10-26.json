@@ -14,7 +14,7 @@
           "sets": [
             {
               "reps": 15,
-              "weight": null,
+              "weight": 15.0,
               "weight_unit": "kg",
               "distance_km": null,
               "duration_min": null
