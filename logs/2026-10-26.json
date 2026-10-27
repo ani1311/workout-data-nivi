@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-26",
+  "workouts": [
+    {
+      "id": "ec182db3-06c2-47e0-941e-dad9972abbcf",
+      "plan_id": "legs",
+      "performed_at": "2026-10-26T00:00:00Z",
+      "entries": [
+        {
+          "slot_id": "squats",
+          "slot_label": "Squats",
+          "exercise_id": "squats",
+          "exercise_name": "Squats",
+          "sets": [
+            {
+              "reps": null,
+              "weight": null,
+              "weight_unit": "kg",
+              "distance_km": null,
+              "duration_min": null
+            }
+          ]
+        },
+        {
+          "slot_id": "deadlifts",
+          "slot_label": "Deadlifts",
+          "exercise_id": "rdls",
+          "exercise_name": "RDLs",
+          "sets": [
+            {
+              "reps": null,
+              "weight": null,
+              "weight_unit": "kg",
+              "distance_km": null,
+              "duration_min": null
+            }
+          ]
+        },
+        {
+          "slot_id": "lunges",
+          "slot_label": "Lunges",
+          "exercise_id": "lunges",
+          "exercise_name": "Lunges",
+          "sets": [
+            {
+              "reps": null,
+              "weight": null,
+              "weight_unit": "kg",
+              "distance_km": null,
+              "duration_min": null
+            }
+          ]
+        },
+        {
+          "slot_id": "glute-bridges",
+          "slot_label": "Glute Bridges",
+          "exercise_id": "machine-bridges",
+          "exercise_name": "Machine Bridges",
+          "sets": [
+            {
+              "reps": null,
+              "weight": null,
+              "weight_unit": "kg",
+              "distance_km": null,
+              "duration_min": null
+            }
+          ]
+        },
+        {
+          "slot_id": "calf-raises",
+          "slot_label": "Calf Raises",
+          "exercise_id": "seated-calf-raise-machine",
+          "exercise_name": "Seated Calf Raise Machine",
+          "sets": [
+            {
+              "reps": null,
+              "weight": null,
+              "weight_unit": "kg",
+              "distance_km": null,
+              "duration_min": null
+            }
+          ]
+        }
+      ],
+      "notes": ""
+    }
+  ]
+}
