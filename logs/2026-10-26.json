@@ -129,7 +129,7 @@
           "exercise_name": "Two Leg Calf Raises",
           "sets": [
             {
-              "reps": null,
+              "reps": 10,
               "weight": null,
               "weight_unit": "kg",
               "distance_km": null,
