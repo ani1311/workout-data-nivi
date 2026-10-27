@@ -125,8 +125,8 @@
         {
           "slot_id": "calf-raises",
           "slot_label": "Calf Raises",
-          "exercise_id": "seated-calf-raise-machine",
-          "exercise_name": "Seated Calf Raise Machine",
+          "exercise_id": "two-leg-calf-raises",
+          "exercise_name": "Two Leg Calf Raises",
           "sets": [
             {
               "reps": null,
