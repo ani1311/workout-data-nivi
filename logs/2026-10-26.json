@@ -96,8 +96,8 @@
         {
           "slot_id": "glute-bridges",
           "slot_label": "Glute Bridges",
-          "exercise_id": "machine-bridges",
-          "exercise_name": "Machine Bridges",
+          "exercise_id": "barbell-glute-bridge",
+          "exercise_name": "Barbell Glute Bridge",
           "sets": [
             {
               "reps": null,
